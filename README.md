@@ -14,3 +14,5 @@ There are only 2 questions; Uses Insertion sort and Bubble sort (shaker). The pr
 When you enter your name and then cancel the program it'll say, "Last Played: (name)". It saves a .txt file with the last played character! The last played character is "Obama" by default.   
 
 The game is kinda boring with some bad art but that's okay, because Obama once told me, "Started from the bottom and now we are here". 
+
+![capture](https://cloud.githubusercontent.com/assets/27081909/24833720/09e6b708-1ca0-11e7-9be7-fa0396ac451c.PNG)
