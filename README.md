@@ -1,4 +1,6 @@
 # First-2D-Game
+![capture](https://cloud.githubusercontent.com/assets/27081909/24833720/09e6b708-1ca0-11e7-9be7-fa0396ac451c.PNG)
+
 Game teaches the user about several searching/sorting algorithms as they play!
 
 A: LEFT
@@ -15,4 +17,3 @@ When you enter your name and then cancel the program it'll say, "Last Played: (n
 
 The game is kinda boring with some bad art but that's okay, because Obama once told me, "Started from the bottom and now we are here". 
 
-![capture](https://cloud.githubusercontent.com/assets/27081909/24833720/09e6b708-1ca0-11e7-9be7-fa0396ac451c.PNG)
