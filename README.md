@@ -1,6 +1,9 @@
 # First-2D-Game
 ![capture](https://cloud.githubusercontent.com/assets/27081909/24833720/09e6b708-1ca0-11e7-9be7-fa0396ac451c.PNG)
 
+![demo3](https://cloud.githubusercontent.com/assets/27081909/24833849/fdf3cd48-1ca2-11e7-9c5e-1df43727bebb.gif)
+
+
 Game teaches the user about several searching/sorting algorithms as they play!
 
 A: LEFT
